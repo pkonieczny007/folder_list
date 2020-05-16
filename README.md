@@ -1,2 +1,2 @@
 # folder_list
-'''The program checking and write file in his folder'''
+'''The program checking and write files in his folder'''
